@@ -1,8 +1,22 @@
-# 도심 물류 최적화 프로젝트 (Spring)
+# 🚛 도심 물류 최적화 프로젝트 (Spring)
 
 ## 📌 프로젝트 개요
 도심 내 물류 이동을 지하철도를 이용하여 효율적으로 최적화하는 시스템을 구축하는 프로젝트입니다. 
 AI/ML을 활용하여 실시간 데이터 분석, 경로 추천, 비용 절감, 상품 검수, 챗봇 등 여러 기능을 활용하여 사용자에게 최적의 경험을 주기 위한 목표로 개발하였습니다.
+
+---
+
+## 🏗️ 소프트웨어 아키텍처 
+<p align="center">
+  <img src="readMe/software_Architecture.png" alt="Software Architecture" width="600"/>
+</p>
+
+## 🔄 서비스 플로우
+<p align="center">
+  <img src="readMe/service_Flow.png" alt="Service Flow" width="600"/>
+</p>
+
+---
 
 ## 🛠️ 기술 스택
 - **Backend:** Spring Framework, JPA, FastAPI (외부 통신), Spring Security
@@ -10,6 +24,8 @@ AI/ML을 활용하여 실시간 데이터 분석, 경로 추천, 비용 절감, 
 - **Frontend:** jQuery, Mustache, JavaScript
 - **Monitoring:** Metrics
 - **Deployment:** Docker, Azure
+
+---
 
 ## 🚀 주요 기능
 - **(FastAPI) Tmap API를 활용한 경로 추천 및 비교 서비스** (FastAPI 개발: MZ)
