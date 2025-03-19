@@ -12,10 +12,10 @@ AI/ML을 활용하여 실시간 데이터 분석, 경로 추천, 비용 절감, 
 - **Deployment:** Docker, Azure
 
 ## 🚀 주요 기능
-- **Tmap API를 활용한 경로 추천 및 비교 서비스** (FastAPI 개발: MZ)
-- **YOLO v11을 활용한 상품 비교 검수** (AI 모델 개발: JH)
-- **LSTM을 활용한 물류량 예측** (데이터 분석: GH )
-- **최적 입지 추천 서비스** (입지 분석 모델 개발: CR )
+- **(FastAPI) Tmap API를 활용한 경로 추천 및 비교 서비스** (FastAPI 개발: MZ)
+- **(FastAPI) YOLO v11을 활용한 상품 비교 검수** (AI 모델 개발: JH)
+- **(FastAPI) LSTM을 활용한 물류량 예측** (데이터 분석: GH)
+- **(FastAPI) 최적 입지 추천 서비스** (입지 분석 모델 개발: CR)
 - **실시간 물류 데이터 처리**: Redis를 활용한 JWT Refresh Token 저장 및 빠른 데이터 접근
 - **경로 최적화**: JPA를 활용한 데이터 저장 및 경로 분석
 - **실시간 모니터링**: Metrics를 통한 시스템 상태 모니터링
