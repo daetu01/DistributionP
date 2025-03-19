@@ -71,8 +71,8 @@ AI/ML을 활용하여 실시간 데이터 분석, 경로 추천, 비용 절감, 
 ## ⚡ 설치 및 실행 방법
 ### 1. 프로젝트 클론
 ```bash
-git clone https://github.com/your-repository/urban-logistics-optimization.git
-cd urban-logistics-optimization
+git clone https://github.com/your-repository/DistributionP.git
+cd DistributionP.git
 ```
 
 ### 2. 백엔드 실행
@@ -91,10 +91,4 @@ uvicorn app:main --host 0.0.0.0 --port 8000
 ## 📊 시스템 모니터링
 - Spring Actuator 및 Metrics 활용
 - Redis 상태 확인: `redis-cli monitor`
-
-## 📜 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다.
-
----
-추가할 내용이 있으면 언제든 알려줘!
 
